@@ -1,5 +1,7 @@
 # OriginChain
 
+[![Tests](https://github.com/Aryxzing/OriginChain-Demo/actions/workflows/tests.yml/badge.svg)](https://github.com/Aryxzing/OriginChain-Demo/actions/workflows/tests.yml)
+
 **Blockchain-backed quality assurance, authentication and supply-chain traceability for luxury cosmetics.**
 
 OriginChain follows one product from raw materials to the shop shelf. Every stage has to pass its quality checks before custody can move on, every approval is sealed on a blockchain, and any customer can check a product's code to see whether it is genuine. Operational records and evidence files stay off-chain; only their fingerprints (Keccak-256 hashes) go on-chain, so a single changed byte is detected.
