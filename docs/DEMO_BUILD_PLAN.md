@@ -2,7 +2,7 @@
 
 Audit date: 2026-08-20
 
-This plan is based on the repository contents inspected at `C:\Users\aryan\OneDrive\Desktop\OriginChain-main`. The current repository is a planning skeleton, not an implemented application.
+This plan is based on the repository contents inspected in a local `OriginChain-main` checkout. The current repository is a planning skeleton, not an implemented application.
 
 ## Current Repo Structure
 
